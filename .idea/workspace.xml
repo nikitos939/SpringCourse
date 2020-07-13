@@ -3,18 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1e044e8c-d8ac-46d5-91eb-0be388cbbf5f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/golik/springcourse/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/golik/springcourse/ClassicalMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/golik/springcourse/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/golik/springcourse/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/golik/springcourse/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/golik/springcourse/MusicPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/golik/springcourse/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/golik/springcourse/RockMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/golik/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/golik/springcourse/TestSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/golik/springcourse/ClassicalMusic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/golik/springcourse/ClassicalMusic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/golik/springcourse/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/golik/springcourse/Computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/golik/springcourse/MusicPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/golik/springcourse/MusicPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/golik/springcourse/RockMusic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/golik/springcourse/RockMusic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/golik/springcourse/TestSpring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/golik/springcourse/TestSpring.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,21 +102,21 @@
       <screen x="0" y="0" width="1920" height="1034" />
     </state>
     <state x="690" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1034@0.0.1920.1034" timestamp="1594415570940" />
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1594459152797">
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1594461995461">
       <screen x="0" y="0" width="1920" height="1034" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1034@0.0.1920.1034" timestamp="1594459152797" />
-    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1594459152797">
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1034@0.0.1920.1034" timestamp="1594461995461" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1594461995461">
       <screen x="0" y="0" width="1920" height="1034" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1034@0.0.1920.1034" timestamp="1594459152797" />
-    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1594459152797">
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1034@0.0.1920.1034" timestamp="1594461995461" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1594461995461">
       <screen x="0" y="0" width="1920" height="1034" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1034@0.0.1920.1034" timestamp="1594459152797" />
-    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1594459152797">
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1034@0.0.1920.1034" timestamp="1594461995461" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1594461995461">
       <screen x="0" y="0" width="1920" height="1034" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1034@0.0.1920.1034" timestamp="1594459152797" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1034@0.0.1920.1034" timestamp="1594461995461" />
   </component>
 </project>
